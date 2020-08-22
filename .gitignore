@@ -84,3 +84,6 @@ callgrind.*
 !/readme.rst
 !/configure.py
 !/license.txt
+
+# vscode
+.vscode
